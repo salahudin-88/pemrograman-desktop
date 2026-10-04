@@ -1,0 +1,14 @@
+Data disimpan oleh: superadmin (superadmin)
+Waktu penyimpanan: 2026-10-04 12:08:40
+--------------------------------------------------
+BIODATA TERSIMPAN:
+Diinput oleh: superadmin (superadmin)
+
+Nama: Salahudin
+NIM: 24106050088
+Jurusan: Informatika
+Email: sala@gimail.com
+Telepon: 081245665789
+Tanggal Lahir: 11/01/2001
+Alamat: Jl. Tribrata
+Jenis Kelamin: Pria
