@@ -1,0 +1,14 @@
+Data disimpan oleh: admin
+Waktu penyimpanan: 2026-10-04 11:18:28
+--------------------------------------------------
+BIODATA TERSIMPAN:
+Diinput oleh: admin
+
+Nama: Salahudin
+NIM: 24106050088
+Jurusan: Informatika
+Email: salahudin@gmail.com
+Telepon: 081246116086
+Tanggal Lahir: 22/11/2001
+Alamat: Jl. Tribrata
+Jenis Kelamin: Pria

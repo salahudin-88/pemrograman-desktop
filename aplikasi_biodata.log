@@ -1,0 +1,198 @@
+2026-10-04 00:39:32 - INFO - Aplikasi dimulai
+2026-10-04 00:46:01 - INFO - Login attempt for username: admin
+2026-10-04 00:46:01 - WARNING - Failed login attempt for username: admin
+2026-10-04 00:46:10 - INFO - Login attempt for username: admin
+2026-10-04 00:46:10 - WARNING - Failed login attempt for username: admin
+2026-10-04 00:48:47 - INFO - Aplikasi dimulai
+2026-10-04 00:49:41 - INFO - Login attempt for username: 
+2026-10-04 00:49:41 - WARNING - Empty credentials attempt for username: 
+2026-10-04 00:50:14 - INFO - Login attempt for username: 24106050088
+2026-10-04 00:50:14 - WARNING - Failed login attempt for username: 24106050088
+2026-10-04 00:51:32 - INFO - Aplikasi dimulai
+2026-10-04 00:52:40 - INFO - Login attempt for username: Salahudin(24106050088)
+2026-10-04 00:52:40 - INFO - Successful login for user: Salahudin(24106050088)
+2026-10-04 00:53:24 - ERROR - Error in submit_data by Salahudin(24106050088): Semua field harus diisi.
+2026-10-04 00:55:21 - ERROR - Error in submit_data by Salahudin(24106050088): Format tanggal lahir harus YYYY-MM-DD dan valid.
+2026-10-04 00:55:35 - ERROR - Error in submit_data by Salahudin(24106050088): Format tanggal lahir harus YYYY-MM-DD dan valid.
+2026-10-04 00:55:41 - ERROR - Error in submit_data by Salahudin(24106050088): Format tanggal lahir harus YYYY-MM-DD dan valid.
+2026-10-04 00:59:04 - INFO - Form biodata direset oleh Salahudin(24106050088)
+2026-10-04 01:30:27 - INFO - Aplikasi dimulai
+2026-10-04 01:30:42 - INFO - Login attempt for username: Salahudin(24106050088)
+2026-10-04 01:30:42 - INFO - Successful login for user: Salahudin(24106050088)
+2026-10-04 01:32:12 - INFO - Data submitted by user: Salahudin(24106050088) - NIM: 24106050088
+2026-10-04 01:32:36 - INFO - Form biodata direset oleh Salahudin(24106050088)
+2026-10-04 01:32:44 - INFO - User logout: Salahudin(24106050088)
+2026-10-04 01:34:03 - INFO - Login attempt for username: admin
+2026-10-04 01:34:03 - INFO - Successful login for user: admin
+2026-10-04 01:34:59 - INFO - Data submitted by user: admin - NIM: 123456789
+2026-10-04 01:37:11 - INFO - Form biodata direset oleh admin
+2026-10-04 01:37:16 - INFO - Application closed by user: admin
+2026-10-04 02:06:34 - INFO - Aplikasi dimulai
+2026-10-04 02:07:31 - INFO - Aplikasi dimulai
+2026-10-04 02:07:46 - INFO - Login attempt for username: admin
+2026-10-04 02:07:46 - INFO - Successful login for user: admin
+2026-10-04 05:20:35 - INFO - Aplikasi dimulai
+2026-10-04 05:21:01 - INFO - Aplikasi dimulai
+2026-10-04 05:21:14 - INFO - Login attempt for username: user1
+2026-10-04 05:21:14 - INFO - Successful login for user: user1
+2026-10-04 05:21:14 - INFO - Theme applied for user: user1
+2026-10-04 05:22:57 - INFO - Data submitted by user: user1 - NIM: 24106050088
+2026-10-04 05:23:03 - INFO - Data submitted by user: user1 - NIM: 24106050088
+2026-10-04 05:23:08 - INFO - Application closed by user: user1
+2026-10-04 05:58:21 - INFO - Aplikasi dimulai
+2026-10-04 05:58:32 - INFO - Login attempt for username: user1
+2026-10-04 05:58:32 - INFO - Successful login for user: user1
+2026-10-04 05:58:32 - INFO - Theme applied for user: user1
+2026-10-04 06:01:32 - INFO - Data submitted by user: user1 - NIM: 24106050088
+2026-10-04 09:52:37 - INFO - Aplikasi dimulai
+2026-10-04 09:52:58 - INFO - Login attempt for username: admin
+2026-10-04 09:52:58 - INFO - Successful login for user: admin
+2026-10-04 09:52:58 - INFO - Theme applied for user: admin
+2026-10-04 09:55:28 - INFO - Data submitted by user: admin - NIM: 24106050088
+2026-10-04 09:55:52 - INFO - Data submitted by user: admin - NIM: 24106050088
+2026-10-04 09:57:14 - INFO - Aplikasi dimulai
+2026-10-04 09:57:40 - INFO - Aplikasi dimulai
+2026-10-04 09:57:56 - INFO - Login attempt for username: admin
+2026-10-04 09:57:56 - INFO - Successful login for user: admin
+2026-10-04 09:57:56 - INFO - Theme applied for user: admin
+2026-10-04 09:58:14 - INFO - Form biodata direset oleh admin
+2026-10-04 09:58:15 - INFO - Form biodata direset oleh admin
+2026-10-04 09:58:15 - INFO - Form biodata direset oleh admin
+2026-10-04 09:58:15 - INFO - Form biodata direset oleh admin
+2026-10-04 09:58:15 - INFO - Form biodata direset oleh admin
+2026-10-04 09:58:15 - INFO - Form biodata direset oleh admin
+2026-10-04 09:58:16 - INFO - Form biodata direset oleh admin
+2026-10-04 09:58:16 - INFO - Form biodata direset oleh admin
+2026-10-04 09:58:16 - INFO - Form biodata direset oleh admin
+2026-10-04 09:58:16 - INFO - Form biodata direset oleh admin
+2026-10-04 10:03:16 - INFO - Aplikasi dimulai
+2026-10-04 10:03:25 - INFO - Login attempt for username: admin
+2026-10-04 10:03:25 - INFO - Successful login for user: admin
+2026-10-04 10:03:25 - INFO - Theme applied for user: admin
+2026-10-04 10:14:15 - INFO - Aplikasi dimulai
+2026-10-04 10:14:29 - INFO - Login attempt for username: admin
+2026-10-04 10:14:29 - INFO - Successful login for user: admin
+2026-10-04 10:14:29 - INFO - Theme applied for user: admin
+2026-10-04 10:24:53 - INFO - Aplikasi dimulai
+2026-10-04 10:25:24 - INFO - Login attempt for username: admin
+2026-10-04 10:25:24 - INFO - Successful login for user: admin
+2026-10-04 10:25:24 - INFO - Theme applied for user: admin
+2026-10-04 10:32:52 - INFO - Aplikasi dimulai
+2026-10-04 10:33:01 - INFO - Login attempt for username: admin
+2026-10-04 10:33:01 - INFO - Successful login for user: admin
+2026-10-04 10:33:01 - INFO - Theme applied for user: admin
+2026-10-04 10:34:14 - INFO - Aplikasi dimulai
+2026-10-04 10:34:28 - INFO - Login attempt for username: admin
+2026-10-04 10:34:28 - INFO - Successful login for user: admin
+2026-10-04 10:34:28 - INFO - Theme applied for user: admin
+2026-10-04 10:35:19 - INFO - Aplikasi dimulai
+2026-10-04 10:35:29 - INFO - Login attempt for username: admin
+2026-10-04 10:35:29 - INFO - Successful login for user: admin
+2026-10-04 10:35:29 - INFO - Theme applied for user: admin
+2026-10-04 10:50:38 - INFO - Aplikasi dimulai
+2026-10-04 10:50:50 - INFO - Login attempt for username: admin
+2026-10-04 10:50:50 - INFO - Successful login for user: admin
+2026-10-04 10:50:50 - INFO - Theme applied for user: admin
+2026-10-04 10:52:36 - ERROR - Error in submit_data by admin: Jenis Kelamin: Pilih salah satu (Laki-laki/Perempuan).
+2026-10-04 10:53:58 - INFO - Aplikasi dimulai
+2026-10-04 10:54:09 - INFO - Login attempt for username: admin
+2026-10-04 10:54:09 - INFO - Successful login for user: admin
+2026-10-04 10:54:09 - INFO - Theme applied for user: admin
+2026-10-04 10:55:24 - INFO - Data submitted by user: admin - NIM: 24106050088 - JK: Laki-laki
+2026-10-04 11:12:26 - INFO - Aplikasi dimulai
+2026-10-04 11:13:05 - INFO - Login attempt for username: admin
+2026-10-04 11:13:05 - INFO - Successful login for user: admin
+2026-10-04 11:14:51 - INFO - Data submitted by user: admin - NIM: 24106050088
+2026-10-04 11:16:53 - INFO - Data submitted by user: admin - NIM: 24106050088
+2026-10-04 11:17:05 - INFO - Data saved to file: biodata_admin_20261004_111659.txt by admin
+2026-10-04 11:18:23 - INFO - Data submitted by user: admin - NIM: 24106050088
+2026-10-04 11:18:33 - INFO - Data saved to file: biodata_admin_20261004_111828.txt by admin
+2026-10-04 11:19:21 - INFO - Aplikasi dimulai
+2026-10-04 11:20:00 - INFO - Login attempt for username: mahasiswa
+2026-10-04 11:20:00 - INFO - Successful login for user: mahasiswa
+2026-10-04 11:23:16 - INFO - Data submitted by user: mahasiswa - NIM: 24106050088
+2026-10-04 11:23:26 - INFO - Data submitted by user: mahasiswa - NIM: 24106050088
+2026-10-04 11:23:57 - INFO - Data submitted by user: mahasiswa - NIM: 24106050088
+2026-10-04 11:24:09 - INFO - Data submitted by user: mahasiswa - NIM: 24106050088
+2026-10-04 11:24:13 - INFO - Data submitted by user: mahasiswa - NIM: 24106050088
+2026-10-04 11:25:46 - INFO - Aplikasi dimulai
+2026-10-04 11:26:13 - INFO - Login attempt for username: user1
+2026-10-04 11:26:13 - INFO - Successful login for user: user1
+2026-10-04 11:26:13 - INFO - Theme applied for user: user1
+2026-10-04 11:27:58 - INFO - Data submitted by user: user1 - NIM: 12133234231313
+2026-10-04 11:28:08 - INFO - Application closed by user: user1
+2026-10-04 11:28:53 - INFO - Aplikasi dimulai
+2026-10-04 11:37:14 - INFO - Aplikasi dimulai
+2026-10-04 11:46:54 - INFO - Aplikasi dimulai
+2026-10-04 11:48:05 - INFO - Login attempt for username: supeadmin
+2026-10-04 11:48:05 - WARNING - Failed login attempt for username: supeadmin
+2026-10-04 11:51:28 - INFO - Aplikasi dimulai
+2026-10-04 11:51:49 - INFO - Login attempt for username: salahudin
+2026-10-04 11:51:49 - WARNING - Failed login attempt for username: salahudin
+2026-10-04 11:52:17 - INFO - Login attempt for username: salahudin
+2026-10-04 11:52:17 - WARNING - Failed login attempt for username: salahudin
+2026-10-04 11:52:38 - INFO - Login attempt for username: Salahudin
+2026-10-04 11:52:38 - INFO - Successful login for user: Salahudin (role: user)
+2026-10-04 11:54:23 - INFO - Data submitted by user: Salahudin - NIM: 24106050088
+2026-10-04 11:54:38 - INFO - Data saved to file: biodata_Salahudin_20261004_115436.txt by Salahudin
+2026-10-04 11:54:55 - INFO - Application closed by user: Salahudin
+2026-10-04 11:54:59 - INFO - Aplikasi dimulai
+2026-10-04 11:55:35 - INFO - Login attempt for username: user1
+2026-10-04 11:55:35 - INFO - Successful login for user: user1 (role: user)
+2026-10-04 11:56:00 - INFO - Aplikasi dimulai
+2026-10-04 11:56:10 - INFO - Login attempt for username: admin
+2026-10-04 11:56:10 - INFO - Successful login for user: admin (role: admin)
+2026-10-04 11:56:23 - INFO - User logout: admin (role: admin)
+2026-10-04 11:56:55 - INFO - Login attempt for username: superadmin
+2026-10-04 11:56:55 - INFO - Successful login for user: superadmin (role: superadmin)
+2026-10-04 12:05:48 - INFO - Aplikasi dimulai
+2026-10-04 12:06:00 - INFO - Login attempt for username: superadmin
+2026-10-04 12:06:00 - INFO - Successful login for user: superadmin (role: superadmin)
+2026-10-04 12:07:38 - INFO - Data submitted by user: superadmin - NIM: 24106050088
+2026-10-04 12:08:37 - INFO - Data submitted by user: superadmin - NIM: 24106050088
+2026-10-04 12:08:43 - INFO - Data saved to file: biodata_superadmin_20261004_120840.txt by superadmin
+2026-10-04 12:09:08 - INFO - User logout: superadmin (role: superadmin)
+2026-10-04 12:11:18 - INFO - Aplikasi dimulai
+2026-10-04 12:11:52 - INFO - Login attempt for username: Salahudin (24106050088)
+2026-10-04 12:11:52 - WARNING - Failed login attempt for username: Salahudin (24106050088)
+2026-10-04 12:12:52 - INFO - Aplikasi dimulai
+2026-10-04 12:13:19 - INFO - Login attempt for username: Salahudin@gmail.com
+2026-10-04 12:13:19 - WARNING - Failed login attempt for username: Salahudin@gmail.com
+2026-10-04 12:13:56 - INFO - Login attempt for username: Salahudin(24106050088)
+2026-10-04 12:13:56 - WARNING - Failed login attempt for username: Salahudin(24106050088)
+2026-10-04 12:17:15 - INFO - Aplikasi dimulai
+2026-10-04 12:17:47 - INFO - Login attempt for username: Salahudin(24106050088)
+2026-10-04 12:17:47 - WARNING - Failed login attempt for username: Salahudin(24106050088)
+2026-10-04 12:18:30 - INFO - Login attempt for username: Salahudin(24106050088)
+2026-10-04 12:18:30 - WARNING - Failed login attempt for username: Salahudin(24106050088)
+2026-10-04 12:18:52 - INFO - Login attempt for username: Salahudin(24106050088)
+2026-10-04 12:18:52 - WARNING - Failed login attempt for username: Salahudin(24106050088)
+2026-10-04 12:20:57 - INFO - Aplikasi dimulai
+2026-10-04 12:21:22 - INFO - Login attempt for username: Salahudin-24106050088
+2026-10-04 12:21:22 - INFO - Successful login for user: Salahudin-24106050088 (role: user)
+2026-10-04 12:21:55 - INFO - User logout: Salahudin-24106050088 (role: user)
+2026-10-04 12:24:30 - INFO - Aplikasi dimulai
+2026-10-04 12:24:42 - INFO - Login attempt for username: Salahudin-24106050088
+2026-10-04 12:24:42 - INFO - Successful login for user: Salahudin-24106050088 (role: user)
+2026-10-04 12:24:56 - INFO - User logout: Salahudin-24106050088 (role: user)
+2026-10-04 12:25:04 - INFO - Login attempt for username: admin
+2026-10-04 12:25:04 - INFO - Successful login for user: admin (role: admin)
+2026-10-04 12:25:16 - INFO - Aplikasi dimulai
+2026-10-04 12:25:33 - INFO - Login attempt for username: superadmin
+2026-10-04 12:25:33 - INFO - Successful login for user: superadmin (role: superadmin)
+2026-10-04 12:35:19 - INFO - Aplikasi dimulai
+2026-10-04 12:35:27 - INFO - Aplikasi dimulai
+2026-10-04 12:35:37 - INFO - Aplikasi dimulai
+2026-10-04 12:35:52 - INFO - Aplikasi dimulai
+2026-10-04 12:36:05 - INFO - Aplikasi dimulai
+2026-10-04 12:36:12 - INFO - Aplikasi dimulai
+2026-10-04 12:37:01 - INFO - Aplikasi dimulai
+2026-10-04 12:37:20 - INFO - Aplikasi dimulai
+2026-10-04 12:37:29 - INFO - Login attempt for username: superadmin
+2026-10-04 12:37:29 - INFO - Successful login for user: superadmin (role: superadmin)
+2026-10-04 12:54:10 - INFO - Aplikasi dimulai
+2026-10-04 12:54:29 - INFO - Login attempt for username: admin
+2026-10-04 12:54:29 - INFO - Successful login for user: admin (role: admin)
+2026-10-04 12:55:00 - INFO - Aplikasi dimulai
+2026-10-04 12:55:05 - INFO - Login attempt for username: admin
+2026-10-04 12:55:05 - INFO - Successful login for user: admin (role: admin)
